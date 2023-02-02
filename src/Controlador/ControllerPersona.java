@@ -32,7 +32,7 @@ public class ControllerPersona {
     private VistaPersona vista;
     private String id_persona = "", criterio = "";
     JFileChooser jfc;
-
+/////
     public ControllerPersona(ModeloPersona modelo, VistaPersona vista) {
         this.modelo = modelo;
         this.vista = vista;
